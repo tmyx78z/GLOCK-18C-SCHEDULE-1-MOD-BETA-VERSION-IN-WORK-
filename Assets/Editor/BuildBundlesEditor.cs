@@ -9,7 +9,6 @@ public class BuildAssetBundle
     {
         string outputPath = "AssetBundles";
 
-        // 🔧 Crée le dossier s'il n'existe pas
         if (!Directory.Exists(outputPath))
         {
             Directory.CreateDirectory(outputPath);
@@ -24,3 +23,4 @@ public class BuildAssetBundle
         Debug.Log("AssetBundle build avec succès !");
     }
 }
+
