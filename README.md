@@ -3,5 +3,8 @@ GLOCK 18C is now available as a new item on the black market in Schedule 1 for t
 
 PREVIEW :
 
-BLENDER : 
+BLENDER : https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/main/GLOCK18cBLENDER%20image%201.png?raw=true
+https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/main/GLOCK18cBLENDER%20image%202.png?raw=true
+https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/main/GLOCK18cBLENDER%20image%203.png?raw=true
+
 UNITY : https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/main/glock18c_image_in_UNITY.png?raw=true 
