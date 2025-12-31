@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{B55C0109-C59D-4F37-1CD2-70547B542FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glock", "glock\glock.csproj", "{94380B92-0F7D-41CC-8485-7EE65D9A0340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55C0109-C59D-4F37-1CD2-70547B542FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55C0109-C59D-4F37-1CD2-70547B542FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55C0109-C59D-4F37-1CD2-70547B542FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55C0109-C59D-4F37-1CD2-70547B542FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94380B92-0F7D-41CC-8485-7EE65D9A0340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94380B92-0F7D-41CC-8485-7EE65D9A0340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94380B92-0F7D-41CC-8485-7EE65D9A0340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94380B92-0F7D-41CC-8485-7EE65D9A0340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
