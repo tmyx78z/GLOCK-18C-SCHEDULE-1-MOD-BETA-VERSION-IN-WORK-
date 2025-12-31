@@ -1,0 +1,4 @@
+C:\Users\tmyx7\glock\glock\obj\Debug\net10.0\glock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmyx7\glock\glock\obj\Debug\net10.0\glock.AssemblyInfoInputs.cache
+C:\Users\tmyx7\glock\glock\obj\Debug\net10.0\glock.AssemblyInfo.cs
+C:\Users\tmyx7\glock\glock\obj\Debug\net10.0\glock.csproj.CoreCompileInputs.cache
