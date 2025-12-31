@@ -8,3 +8,7 @@ https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/m
 https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/main/GLOCK18cBLENDER%20image%203.png?raw=true
 
 UNITY : https://github.com/tmyx78z/GLOCK-18C-SCHEDULE-1-MOD-BETA-VERSION-IN-WORK-/blob/main/glock18c_image_in_UNITY.png?raw=true 
+
+
+
+install MelonLoader so that the DLL file can be processed : https://melonwiki.xyz/#/
